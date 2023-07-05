@@ -1,4 +1,4 @@
-# Naziv aplikacije
+
 ## Bike Frineds
 
 # Tim
