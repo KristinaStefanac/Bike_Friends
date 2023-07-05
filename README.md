@@ -1,7 +1,6 @@
 
-# Bike Frineds
+# Bike Friends
 
-# Tim
 ## Kristina Štefanac 181/22
 
 # Opis aplikacije
