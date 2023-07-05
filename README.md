@@ -1,5 +1,5 @@
 
-## Bike Frineds
+# Bike Frineds
 
 # Tim
 ## Kristina Štefanac 181/22
