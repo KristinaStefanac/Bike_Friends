@@ -1,26 +1,5 @@
-# Bike_Friends
+# Vue 3 + Vite
 
-# Tim 362/23
+This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-## Opis aplikacije
-
-Web aplkacija je namijenjena ljubiteljima biciklizma za organizaciju testnih vožnji i razmjenu iskustava.
-
-## Funkcionalnosti prema ekranima
-
-Glavna stranica (Home)
-- Prikaz svih dostupnih bicikala u obliku kartica s osnovnim informacijama (naziv, lokacija). Omogućeno je brzo pretraživanje putem tražilice i filtriranje prema kategorijama.
-
-Detalji bicikla
-- Klikom na oglas otvara se stranica s detaljnim specifikacijama (brend, godina) i polje za slanje upita vlasniku ("Zanima me...")
-
-Dodavanje oglasa (Add Bike)
-- Jenodstavna forma za unos podataka o biciklu s mogućnošću prijenosa slike.
-
-Korisnički profil
-- Podijeljen na dva dijela:  
-
-    Moji oglasi: upravljanje vlastiti biciklima (uređivanje i brisanje)
-    
-    Moji upiti: pregled svih pristiglih upita od drugih korisnika s opcijom prihvaćanja i odbijanja
-          
+Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
