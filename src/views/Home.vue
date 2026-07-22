@@ -1,9 +1,9 @@
 <script setup>
 import { ref, computed, onMounted } from 'vue'
-import { useBikesStore } from '@/stores/bikes.js'
-import BikeCard from '@/components/BikeCard.vue'
-import SearchPanel from '@/components/SearchPanel.vue'
-import Pagination from '@/components/Pagination.vue'
+import { useBikesStore } from '../stores/bikes.js'
+import BikeCard from '../components/BikeCard.vue'
+import SearchPanel from '../components/SearchPanel.vue'
+import Pagination from '../components/Pagination.vue'
 
 const bikesStore = useBikesStore()
 const search = ref('')
