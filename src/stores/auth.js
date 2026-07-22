@@ -28,7 +28,7 @@ export const useAuthStore = defineStore('auth', {
 
     init() {
       onAuthStateChanged(auth, (u) => {
-        this.user = u
+        this.user = uovo 
       })
     }
   }
