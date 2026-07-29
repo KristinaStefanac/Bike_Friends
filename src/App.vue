@@ -19,7 +19,6 @@ async function handleLogout() {
 <template>
   <nav class="nav">
     <RouterLink to="/" class="brand">🚲 Bike Friends</RouterLink>
-    <RouterLink to="/">Browse</RouterLink>
     <RouterLink v-if="authStore.user" to="/my-bikes">My Bikes</RouterLink>
     <RouterLink v-if="authStore.user" to="/messages">Messages</RouterLink>
     <span class="spacer" />

@@ -46,7 +46,7 @@ input, textarea, select {
   font-size: 14px;
 }
 
-.container { max-width: 1100px; margin: 0 auto; padding: 24px; }
+.container { max-width: 1400px; margin: 0 auto; padding: 24px; }
 .nav {
   display: flex;
   align-items: center;
@@ -60,8 +60,8 @@ input, textarea, select {
 
 .grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-  gap: 16px;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
 }
 
 .card {
